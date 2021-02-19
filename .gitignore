@@ -1,4 +1,5 @@
 # Ignore bits related to the two contributory repos
+__pycache__
 shared
 rt_handlers
 app.py
